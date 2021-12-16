@@ -1,0 +1,26 @@
+Links
+=====
+
+Build your Substrate node
+https://docs.substrate.io/tutorials/v3/create-your-first-substrate-chain/
+https://docs.substrate.io/v3/getting-started/installation/
+
+ink!
+https://paritytech.github.io/ink/#play-with-it
+
+Getting started with ink!
+https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/#prerequisites
+
+CanvasUI
+https://github.com/paritytech/canvas-ui
+https://paritytech.github.io/canvas-ui/
+
+Currently working RPC
+wss://rococo-canvas-rpc.polkadot.io
+https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-canvas-rpc.polkadot.io#/explorer
+https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/explorer
+
+
+Commands
+========
+substrate-contracts-node --dev --tmp
