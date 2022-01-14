@@ -1,0 +1,42 @@
+Meetup.com Details
+==================
+
+The third Polkadot Hungary meetup. We start with Polkadot/Kusama/Substrate news, then continue with presentations. Finally, based on the attendees' mood we talk, hack, code, eat and drink.
+
+Agenda:
+18:00 Polkadot/Substrate news (beginner friendly)
+18:15 Presentation: Composing systems of governance with Substrate, by Sacha Lansky, Developer Advocate & Technical Writer at Parity Technologies
+19:00 Presentation: Hacking decentralization, by ra33it0 and six from QRUCICAL.
+19:30 Hacking together. Bring your laptop!
+
+Bio of Sacha Lansky:
+"Towards the end of his computer science degree, Sacha quickly became passionate about building solutions based on decentralized architectures. Since then he's grown especially interested in how these systems are changing ownership paradigms within shared digital worlds. Today, Sacha is Developer Advocate at Parity Technologies, on a mission to make Substrate's innovations accessible to developers building the future of the Web."
+
+Sacha's presentation's description:
+"Composing systems of governance with Substrate: Composing systems of governance with Substrate" : In this talk, Parity developer advocate Sacha Lansky will dive into the different capabilities Substrate provides for building decentralized systems of governance in a Substrate based blockchain. In doing so he will look at the pallets of existing systems like Polkadot's as well as ways to customize governance for any chain."
+
+The organization of the event is decentralized: Web3Foundation provides the pizza, QRUCIAL offers the venue, InLock gets us the "Success Drink" --> the one we drink after we get something productive done!
+
+Location: GamerLand, Budapest
+
+________________________
+[Hungarian description]
+
+A harmadik Polkadot Hungary összejövetel. Hírekkel kezdünk, majd előadás (külföldi előadók, távolról csatlakoznak) és kinek milyen kedve, folytatjuk beszélgetéssel, kódolással, ételekkel és italokkal. Javasoljuk, hogy hozzatok laptopot magatokkal!
+
+Az összejövetel célja, hogy összehozza az itthoni Polkadot/Kusama-Substrate közösséget és további projekteket indíthassunk el.
+
+Helyszín: GamerLand, Budapest
+Szponzorok: Web3Foundation, Parity, QRUCIAL, InLock
+
+Programtervezet:
+18:00 Polkadot/Substrate hírek (kezdőbarát nyelven)
+18:15 Előadás: Composing systems of governance with Substrate, by Sacha Lansky, Developer Advocate & Technical Writer at Parity Technologies
+19:00 Előadás: Hacking decentralization, by ra33it0 and six from QRUCICAL.
+19:30 Közös hacking. Hozz laptopot!
+
+Sacha Lansky bemutatkozása:
+"Towards the end of his computer science degree, Sacha quickly became passionate about building solutions based on decentralized architectures. Since then he's grown especially interested in how these systems are changing ownership paradigms within shared digital worlds. Today, Sacha is Developer Advocate at Parity Technologies, on a mission to make Substrate's innovations accessible to developers building the future of the Web."
+
+Előadás leírása:
+"Composing systems of governance with Substrate: Composing systems of governance with Substrate" : In this talk, Parity developer advocate Sacha Lansky will dive into the different capabilities Substrate provides for building decentralized systems of governance in a Substrate based blockchain. In doing so he will look at the pallets of existing systems like Polkadot's as well as ways to customize governance for any chain."
