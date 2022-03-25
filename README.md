@@ -1,11 +1,15 @@
 # Polkadot Hungary Meetup
 Repository for documents and files, related to Polkadot Hungary Meetups.
 
-International group: [Polkadot and Kusama Hungary](https://www.meetup.com/polkadot-and-kusama-budapest/)
+**Telegram group:** [https://t.me/polkadothungary](https://t.me/polkadothungary)
 
-Hungarian only group: [Polkadot Hungary](https://www.meetup.com/polkadot-hungary/)
+**International group:** [Polkadot and Kusama Hungary](https://www.meetup.com/polkadot-and-kusama-budapest/)
 
-Our sponsors: QRUCIAL (venue), Web3 Foundation (pizza), InLock (drinks), Parity Technologies (speakers).
+**Hungarian only group:** [Polkadot Hungary](https://www.meetup.com/polkadot-hungary/)
+
+**Organizer:** six / David Pethes - [Polkadot Head Ambassador of Eastern Europe](https://polkadot.network/)
+
+**Meetup sponsors:** [QRUCIAL](https://qrucial.io/) (venue), [Local Korner](localkorner.hu) (pizza), [Web3 Foundation](https://web3.foundation/) (social media), [InLock](https://inlock.io/) (drinks), [Parity Technologies](https://www.parity.io/) (speakers).
 
 
 ## List of events
