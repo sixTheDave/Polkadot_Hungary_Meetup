@@ -26,6 +26,8 @@ Token Economy and Development - 2022 March
 
 Meetup in Metaverse - 2022 April
 
+TBA - 2022 May
+
 
 ## List of speakers in order
 six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network)
