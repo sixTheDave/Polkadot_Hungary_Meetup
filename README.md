@@ -3,13 +3,13 @@ Repository for documents and files, related to Polkadot Hungary Meetups.
 
 **Telegram group:** [https://t.me/polkadothungary](https://t.me/polkadothungary)
 
-**International group:** [Polkadot and Kusama Hungary](https://www.meetup.com/polkadot-and-kusama-budapest/)
+**Meetup.com group:** [Polkadot and Kusama Hungary](https://www.meetup.com/polkadot-and-kusama-budapest/)
 
-**Hungarian only group:** [Polkadot Hungary](https://www.meetup.com/polkadot-hungary/)
+**CCTF Metaverse shared with Polkadot meetups:** [Enter Metaverse](https://play.workadventu.re/@/web3/events/cctf)
 
 **Organizer:** six / David Pethes - [Polkadot Head Ambassador of Eastern Europe](https://polkadot.network/)
 
-**Meetup sponsors:** [QRUCIAL](https://qrucial.io/) (venue), [Local Korner](localkorner.hu) (pizza), [Web3 Foundation](https://web3.foundation/) (social media), [InLock](https://inlock.io/) (drinks), [Parity Technologies](https://www.parity.io/) (speakers).
+**Meetup sponsors:** [QRUCIAL](https://qrucial.io/) (venue), [Local Korner](localkorner.hu) (pizza), [CCTF](https://cryptoctf.org/) (metaverse space), [Web3 Foundation](https://web3.foundation/) (social media), [Parity Technologies](https://www.parity.io/) (speakers).
 
 
 ## List of events
@@ -26,7 +26,9 @@ Token Economy and Development - 2022 March
 
 Meetup in Metaverse - 2022 April
 
-TBA - 2022 May
+Local event vs. Metaverse - 2022 May
+
+Metaverse meetup, in CCTF metaverse, before Polkadot Decoded - 2022 June
 
 
 ## List of speakers in order
