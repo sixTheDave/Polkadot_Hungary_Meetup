@@ -14,19 +14,19 @@ Repository for documents and files, related to Polkadot Hungary Meetups.
 
 ## List of events
 
-Getting started with Substrate - 2021 November
+Getting started with Substrate - [2021 November](https://www.meetup.com/polkadot-and-kusama-budapest/events/282118193/)
 
-Introduction to Kusama and how to deploy on Substrate - 2022 December
+Introduction to Kusama and how to deploy on Substrate - [2022 December](https://www.meetup.com/polkadot-and-kusama-budapest/events/282470659/)
 
-Development for a Decentralized Future - 2022 January
+Development for a Decentralized Future - [2022 January](https://www.meetup.com/polkadot-and-kusama-budapest/events/282896640/)
 
-Metaverse on Substrate - 2022 February
+Metaverse on Substrate - [2022 February](https://www.meetup.com/polkadot-and-kusama-budapest/events/283878905/)
 
-Token Economy and Development - 2022 March
+Token Economy and Development - [2022 March](https://www.meetup.com/polkadot-and-kusama-budapest/events/284307851/)
 
-Meetup in Metaverse - 2022 April
+Meetup in Metaverse - [2022 April](https://www.meetup.com/polkadot-and-kusama-budapest/events/284864232/)
 
-Local event vs. Metaverse - 2022 May
+Local event vs. Metaverse - [2022 May](https://www.meetup.com/polkadot-and-kusama-budapest/events/285625166/)
 
 Metaverse meetup, in CCTF metaverse, before Polkadot Decoded - 2022 June
 
