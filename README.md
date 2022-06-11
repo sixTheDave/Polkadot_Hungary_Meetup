@@ -28,7 +28,7 @@ Meetup in Metaverse - [2022 April](https://www.meetup.com/polkadot-and-kusama-bu
 
 Local event vs. Metaverse - [2022 May](https://www.meetup.com/polkadot-and-kusama-budapest/events/285625166/)
 
-Metaverse meetup, in CCTF metaverse, before Polkadot Decoded - 2022 June
+Meetup with Ambassadors, side-event of Polkadot Decoded - [2022 June](https://www.meetup.com/polkadot-and-kusama-budapest/events/286421401/)
 
 
 ## List of speakers in order
