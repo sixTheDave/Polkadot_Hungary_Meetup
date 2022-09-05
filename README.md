@@ -32,6 +32,10 @@ Meetup with Ambassadors, side-event of Polkadot Decoded - [2022 June](https://ww
 
 Building the Metaverse - [2022 July](https://www.meetup.com/polkadot-and-kusama-budapest/events/287072012/)
 
+Metaverse standardization and interoperability - [2022 August](https://www.meetup.com/polkadot-and-kusama-budapest/events/287758419/)
+ 
+Organizing Web3 - [2022 September, link TBA]()
+
 
 ## List of speakers in order
 six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse)
