@@ -1,0 +1,17 @@
+Details
+
+The 9th Polkadot Hungary meet. This will be an online event.
+
+Event link: https://kusama.momentum.xyz/magic/a24ec33c-4b17-44d8-81e9-ddf235276182
+
+Agenda
+19:00 Polkadot News by six / David Pethes (Polkadot Ambassador Program)
+19:30 Metaverse standardization and interoperability by Illia Abrosimov (Asylum project)
+20:00 Metaverse Networking
+
+Illia talk's introduction
+We will talk about the standardization of the Metaverse, why it is critical to make the Metaverse real, what areas must be standardized, what possibilities is it opens and show some existing examples in this sphere. Also I will introduce the IMP - community owned protocol for the Metaverse providers that will cover all mentioned needs.
+
+Bio of Illia Abrosimov (guest speaker)
+I have been a developer since 2015, worked with game backend, game engines, graphics and crypto. Previously worked on such titles as FarCry 5, For Honor, etc in Ubisoft.
+A year ago I switched to the metaverse area because I saw it as the future of our virtual life. now I'm the leader and CEO at Asylum and founder of the IMP consortium.

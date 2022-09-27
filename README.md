@@ -34,8 +34,8 @@ Building the Metaverse - [2022 July](https://www.meetup.com/polkadot-and-kusama-
 
 Metaverse standardization and interoperability - [2022 August](https://www.meetup.com/polkadot-and-kusama-budapest/events/287758419/)
  
-Organizing Web3 - [2022 September, link TBA]()
+Organizing Web3 - [2022 September](https://www.meetup.com/polkadot-and-kusama-budapest/events/288151720/)
 
 
 ## List of speakers in order
-six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse)
+six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse), Illia Abrosimov (Asylum), Major Zsófia (Parity technologies)
