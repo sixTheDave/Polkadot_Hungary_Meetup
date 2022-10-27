@@ -36,8 +36,8 @@ Metaverse standardization and interoperability - [2022 August](https://www.meetu
  
 Organizing Web3 - [2022 September](https://www.meetup.com/polkadot-and-kusama-budapest/events/288151720/)
 
-The Future: Hybrid Metaverse Events - [2022 October - Link TBA]()
+Hybrid meetup: Roundtable discussion with web3 organizers - [2022 October](https://www.meetup.com/polkadot-and-kusama-budapest/events/288875482/)
 
 
 ## List of speakers in order
-six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse), Illia Abrosimov (Asylum), Zsófi Major (Parity technologies)
+six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse), Illia Abrosimov (Asylum), Zsófi Major (Parity Technologies), Darren Seah (Parity Technologies)
