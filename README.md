@@ -5,9 +5,7 @@ Repository for documents and files, related to Polkadot Hungary Meetups.
 
 **Meetup.com group:** [Polkadot and Kusama Hungary](https://www.meetup.com/polkadot-and-kusama-budapest/)
 
-**CCTF Metaverse shared with Polkadot meetups:** [Enter Metaverse](https://play.workadventu.re/@/web3/events/cctf)
-
-**Organizer:** six / David Pethes - [Polkadot Head Ambassador of Eastern Europe](https://polkadot.network/)
+**Organizer:** Viktor Venczel - Polkadot Ambassador, Hungary
 
 **Meetup sponsors:** [QRUCIAL](https://qrucial.io/) (venue), [Local Korner](localkorner.hu) (pizza), [CCTF](https://cryptoctf.org/) (metaverse space), [Web3 Foundation](https://web3.foundation/) (social media), [Parity Technologies](https://www.parity.io/) (speakers).
 
