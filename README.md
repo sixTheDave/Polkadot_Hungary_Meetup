@@ -38,6 +38,12 @@ Organizing Web3 - [2022 September](https://www.meetup.com/polkadot-and-kusama-bu
 
 Hybrid meetup: Roundtable discussion with web3 organizers - [2022 October](https://www.meetup.com/polkadot-and-kusama-budapest/events/288875482/)
 
+Polkadot Meetup Special: 12th Edition - [2022 December](https://www.meetup.com/polkadot-hungary/events/290217911/)
+
+Meetup Opening 2023: Introducing the Polkadot Hub concept - [2023 January](https://www.meetup.com/polkadot-hungary/events/291021532/)
+
+TBA - [2023 February]()
+
 
 ## List of speakers in order
-six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse), Illia Abrosimov (Asylum), Zsófi Major (Parity Technologies), Darren Seah (Parity Technologies)
+six / David Pethes, ra33it0 / Sebastian Kraus, Danny Salman (Web3 Foundation), Sacha Lansky (Parity Technologies), Michael Healy (UNIT network), Nic (Momentum-Kusamaverse), Illia Abrosimov (Asylum), Zsófi Major (Parity Technologies), Darren Seah Parity Technologies), Viktor Venczel (Polkadot Ambassador), Gabor Bovai (Polkadot Ambassador)
