@@ -40,7 +40,9 @@ Polkadot Meetup Special: 12th Edition - [2022 December](https://www.meetup.com/p
 
 Meetup Opening 2023: Introducing the Polkadot Hub concept - [2023 January](https://www.meetup.com/polkadot-hungary/events/291021532/)
 
-TBA - [2023 February]()
+14th meetup, 2023 February
+
+Introduction to Polkadot's interoperability protocol: XCMP, 2023 March
 
 
 ## List of speakers in order
