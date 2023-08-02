@@ -40,9 +40,23 @@ Polkadot Meetup Special: 12th Edition - [2022 December](https://www.meetup.com/p
 
 Meetup Opening 2023: Introducing the Polkadot Hub concept - [2023 January](https://www.meetup.com/polkadot-hungary/events/291021532/)
 
-14th meetup, 2023 February
+The 14th meetup, 2023 February
 
 Introduction to Polkadot's interoperability protocol: XCMP, 2023 March
+
+Implementation of blockchain in our life - 2023 April
+
+Sustainability and Blockchain - 2023 May 11
+
+Bitcoin Pizza Day, Budapest: Interoperable - 2023 May 22
+
+Web3 Due Diligence and Security - 2023 May
+
+The future of Polkadot Governance - 2023 June
+
+Polkadot Decoded Viewingy Party in Budapest - 2023 June
+
+Enter Polkadot as a Substrate based project - [2023 July](https://www.meetup.com/polkadot-hungary/events/294660742/)
 
 
 ## List of speakers in order
